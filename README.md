@@ -1,4 +1,9 @@
-# 2025-projects
+<div align="center">
+  <h1>2025 Project Shelf</h1>
+  <p>An early static-portfolio snapshot retained for learning history</p>
+  <img src="https://img.shields.io/badge/status-archived-6B7280?style=flat-square" alt="Status: archived" />
+  <img src="https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JavaScript-F59E0B?style=flat-square" alt="HTML CSS JavaScript" />
+</div>
 
 > [!NOTE]
 > **Archived project shelf.** This was an early home for 2025 experiments. It is retained for history and is not an active portfolio repository.
